@@ -11,7 +11,7 @@ Color kBackgroundColor = const Color(0xfffafafa);
 Color kInactiveColor = const Color(0xffdbd7ec);
 Color kUnavailableColor = const Color(0xffebecf1);
 Color kAvailableColor = const Color(0xffe0d9ff);
-Color kTransparentColor = Colors.transparent;
+Color kTransparentColor = const Color(0xff9698A9);
 
 double defaultMargin = 24.0;
 double defaultRadius = 17.0;
